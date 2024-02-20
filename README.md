@@ -1,4 +1,4 @@
-# Systems Programming – Assignment #1: The Coalition Race
+# The Coalition Race
 
 This repository contains the completed code for Assignment #1: The Coalition Race, as part of the Systems Programming course in the Fall 2023 semester.
 
