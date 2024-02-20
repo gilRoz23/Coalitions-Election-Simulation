@@ -31,3 +31,4 @@ bin/cRace path_to_config_file.json
 - The program terminates correctly based on the specified termination conditions.
 - Valgrind has been used to check for memory leaks, and no issues were found.
 
+## Enjoy!
